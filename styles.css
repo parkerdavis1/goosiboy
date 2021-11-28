@@ -91,6 +91,7 @@ nav a:hover {
   width: 100%;
   height: 600px;
   background-image: url(./images/gary-bendig-WPmPsdX2ySw-unsplash.jpg);
+  background-size: 100%;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -115,6 +116,7 @@ nav a:hover {
 @media only screen and (max-width: 570px) {
   .splash-container {
     align-items: center;
+    background-attachment: scroll;
   }
 
   .splash-text {
