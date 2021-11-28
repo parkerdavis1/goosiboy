@@ -115,7 +115,6 @@ nav a:hover {
 @media only screen and (max-width: 570px) {
   .splash-container {
     align-items: center;
-    background-attachment: local;
   }
 
   .splash-text {
