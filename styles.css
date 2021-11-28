@@ -93,7 +93,8 @@ nav a:hover {
   background-image: url(./images/gary-bendig-WPmPsdX2ySw-unsplash.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  background-position:center;
+  background-position: center;
+  background-attachment: fixed;
   border-top: solid 5px #F2A413;
 }
 .splash-text {
